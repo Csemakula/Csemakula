@@ -2,8 +2,7 @@
 
 <!--
 **Csemakula/Csemakula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on creating useful databases...
 - 🌱 I’m currently learning SQL, C#, C++ and I hope to learn other things.
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Twitter @Ssemakula, Telegram @Ssemakula...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Navumilia kuwa Mkenya.
--->
+
